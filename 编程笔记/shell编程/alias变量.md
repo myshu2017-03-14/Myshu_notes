@@ -1,6 +1,5 @@
 # 常用
 ```
-# alias
 alias ll='ls -l'
 alias ls='ls --color=auto'
 alias l='ll -ht'
@@ -87,3 +86,6 @@ HELP
   fi
 }
 ```
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExNTA5NjAwNF19
+-->

@@ -1,3 +1,7 @@
+参考链接：
+
+ - [https://linuxize.com/post/how-to-create-bash-aliases/](https://linuxize.com/post/how-to-create-bash-aliases/)
+
 # 常用
 ```
 alias ll='ls -l'
@@ -87,5 +91,5 @@ HELP
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTA5NjAwNF19
+eyJoaXN0b3J5IjpbMTY4NzgyNjc4Nl19
 -->

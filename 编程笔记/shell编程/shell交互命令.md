@@ -246,7 +246,7 @@ awk -v a=3 '{print $a}' file
 a=3 ; awk '{print $'$a'}' file
 
 ```
-![输入图片说明](/imgs/qeoQQNDWhRNrp85b.png)
+![输入图片说明](https://raw.githubusercontent.com/myshu2017-03-14/Myshu_notes/master/imgs/ZpUN0EyCvbKxhWK2.png)
 
 ## 算术运算
 ```
@@ -301,5 +301,5 @@ grep -F -f a.txt b.txt
 grep -F -v -f b.txt a.txt | sort | uniq  
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDU5OTE1ODVdfQ==
+eyJoaXN0b3J5IjpbMTQ5OTAxNTMxNV19
 -->
